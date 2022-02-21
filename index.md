@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## ATELJE LARSEN
+
+![Image](thormod_by_the_press.jpg)
+
 
 You can use the [editor on GitHub](https://github.com/ateljelarsen/hemsida_source/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
